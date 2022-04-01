@@ -3,10 +3,11 @@ laurenkopac/laurenkopac is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Welcome
+### Welcome
 
 <b>I'm a Data Analyst working in and around NYC</b> 🗽
-- 🏢 Working at Columbia University, School of Engineering
+- 🛠️ Employeed at Columbia University (School of Engineering) as an Institutional Research Analyst
 - 🎓 MS candidate in Computer Science at Columbia University
-- 🛠️ Using daily: `.py`, `.ipynb`, `.r`
+- ⌨️ Using daily: `.py`, `.ipynb`, `.r`
 - 📈 For viz: PowerBI, Tableau
+
