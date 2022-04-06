@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 - ⌨️ Using daily: `.py`, `.ipynb`, `.r`
 - 📈 For viz: PowerBI, Tableau
 
+#### Currently working on:
+- 🌱 Developing apps for [Tidbyt](https://github.com/tidbyt) in `.star`, `.go` and `pixlet`
